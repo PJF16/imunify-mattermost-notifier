@@ -97,8 +97,6 @@ You can configure **ImunifyAV** to trigger the script automatically **after each
 
 #### 📌 **Option 2: Set Up via CLI**
 
-✅ **Now, the script will automatically notify Mattermost whenever a scan is completed.
-
 ---
 
 ## 🔍 Example Output
